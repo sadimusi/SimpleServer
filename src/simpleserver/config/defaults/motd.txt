@@ -1,3 +1,0 @@
-Welcome! This server is running SimpleServer wrapper.
-Say /help for the command list.
-Say /help command for help with a specific command.
